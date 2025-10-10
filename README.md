@@ -4,7 +4,7 @@ This project features a comprehensive E-Commerce Sales Dashboard designed to tra
 # Key Insights and Analysis
 The dashboard summarizes over $438K in Total Sales and $37K in Total Profit, offering deep dives into various performance dimensions:
 
-Revenue & Category Drivers:
+# Revenue & Category Drivers:
 Clothing is the dominant revenue generator, accounting for 63% of top categories, followed by Electronics at 21%.
 The Monthly Sales Trend reveals clear seasonality, with strong performance in the early months and a significant recovery/peak in November/December, while showing periods of negative profit in mid-year (June/July).
 
