@@ -19,6 +19,12 @@ Harnesh and Madhav are identified as the top-performing customers.
 An analysis of Quantity by Payment Mode shows COD (Cash on Delivery) as the preferred method, followed by UPI, providing insights for payment processing and logistics optimization.
 
 
+## 🛠 Tools Used
+- Power BI
+- Excel
+- DAX
+
+  
 ## Acknowledgment
 Created during my internship with **Future Interns**  
 #FutureInterns #PowerBI #DataAnalytics #Dashboard #MarketingAnalytics
